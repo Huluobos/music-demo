@@ -19,8 +19,8 @@
               <div style="height: 1rem;" v-if="item =='\n'"></div>
             </span>
                 <div class="weixin">
-                    <img src="@/assets/weixin1.jpg" alt="">
-                    <div class="wxTxt">微信：Yz丶</div>
+                    <img src="@/assets/weixin2.jpg" alt="">
+                    <div class="wxTxt">微信：小小的太阳y </div>
                 </div>
 
             </div>

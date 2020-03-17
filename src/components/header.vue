@@ -3,7 +3,7 @@
     <div class="header">
       <div class="box">
           <h1 class="fl">
-            <a href="/">Huluobos</a>
+            <a href="/"> 徐 东 莹 </a>
             <img src="@/assets/huluoboslogo.png" alt="" >
           </h1>
         <div class="listNav fl">
