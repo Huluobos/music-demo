@@ -3,7 +3,7 @@
     <div class="header">
       <div class="box">
           <h1 class="fl">
-            <a href="/"> 曲  妍 </a>
+            <router-link to="/" style="color:#fff"> 曲  妍 </router-link>
             <img src="@/assets/huluoboslogo.png" alt="" >
           </h1>
         <div class="listNav fl">
