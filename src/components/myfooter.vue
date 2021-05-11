@@ -2,7 +2,7 @@
     <div>
       <div class="box">
         <div class="top">
-            本 网 站 一 切 最 终 解 释 权 归  徐 东 莹 同 学  所 有
+            本 网 站 一 切 最 终 解 释 权 归  曲  妍 同 学  所 有
         </div>
       </div>
     </div>

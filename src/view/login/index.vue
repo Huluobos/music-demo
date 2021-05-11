@@ -60,8 +60,8 @@
 export default {
   data() {
     return {
-      phoneNum: "13946657020", //登录所用的手机号 18332725321  13274319587
-      pwd: "xdy.57020" , //登录所用的密码    zhang11111?  Nanianxiatian123
+      phoneNum: "13274319587", //登录所用的手机号 18332725321  13274319587
+      pwd: "Nanianxiatian123" , //登录所用的密码    zhang11111?  Nanianxiatian123
       addform:{
         phone: "",
         password: "",
